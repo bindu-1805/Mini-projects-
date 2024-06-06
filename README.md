@@ -10,3 +10,9 @@ In this program, the user has to select an option among the ones displayed. The 
 * Deposit - Get the amount from the user, add it to the total balance and print the successful message.
 * Balance Checking - Print the total balance of the user.
 * Exit(0) method - to exit from the current transaction mode.
+
+## 3. Sudoku Solver using Pygame
+The game has the following set of instructions,
+* Press ‘Enter’ to auto-solve.
+* To play the game manually, place the cursor in any cell you want and enter the number.
+* At any point, press enter to solve automatically.
