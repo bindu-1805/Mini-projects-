@@ -16,3 +16,10 @@ The game has the following set of instructions,
 * Press ‘Enter’ to auto-solve.
 * To play the game manually, place the cursor in any cell you want and enter the number.
 * At any point, press enter to solve automatically.
+
+## 4. Web scraping
+Web scraping is the art of extracting content from websites. Web scrapers are used to automatically load and extract data from websites based on user requirements.
+This project was done as part of a Value Added Program and includes the following, 
+* Checks whether websites can be scrapped.
+* HTML tags, to parse the html_doc and then display it in a nested structure.
+* To extract titles, text, images, tables, prices, videos, numbers, dates etc.
