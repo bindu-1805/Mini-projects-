@@ -23,3 +23,10 @@ This project was done as part of a Value Added Program and includes the followin
 * Checks whether websites can be scrapped.
 * HTML tags, to parse the html_doc and then display it in a nested structure.
 * To extract titles, text, images, tables, prices, videos, numbers, dates etc.
+
+## 5. AStar Algorithm using Collections
+The A* algorithm is a search algorithm that efficiently finds the shortest path between a starting node and a goal node in a graph. It combines the strengths of Dijkstra's algorithm and Greedy best-first search. 
+* This algorithm uses a heuristic function to estimate the cost from the current node to the goal, helping it prioritize the exploration of promising paths.
+* By evaluating a node's actual cost from the start (g-score) and the estimated cost to the goal (h-score), A* calculates a total cost (f-score) and explores nodes with the lowest f-score first.
+* This approach effectively balances exploration and exploitation, making it suitable for various pathfinding problems.
+* There are 3 components in this program namely Node, AStar and AStarDemo.
